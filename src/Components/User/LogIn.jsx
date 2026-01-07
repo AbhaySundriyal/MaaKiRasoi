@@ -15,11 +15,11 @@ const LogIn = () => {
                 </div>
 
                 <div className='pl-7 mb-8'>
-                    <h1 className='text-5xl font-bold ' style={{ color: '#00A9CB' }}>
+                    <h1 className='text-5xl font-bold text-[#00A9CB]'>
                         Hello
                         <span className='block mt-3 mb-4'>Welcome Back !!</span>
                     </h1>
-                    <p className='text-lg font-bold tracking-wide' style={{ color: '#908888' }}>Hey!! Welcome back to your favourite platform</p>
+                    <p className='text-lg font-bold tracking-wide text-[#908888]'>Hey!! Welcome back to your favourite platform</p>
                 </div>
                 <div className='pl-7 mb-4'>
                     <input type="email" name="email"  placeholder='Enter your email' className='w-full h-10 px-4 border-2 border-gray-300 rounded-md mb-7' />
